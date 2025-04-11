@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "Arjun",
+			"oem": "xiaomi",
+			"device": "Poco M3",
+			"filename": "Project_Infinity-X-2.7-citrus-20250411-1238-GAPPS-UNOFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/nothing-builds/files/Test_build/Project_Infinity-X-2.7-citrus-20250411-1238-GAPPS-UNOFFICIAL.zip",
+			"timestamp": 1744374991,
+			"md5": "f6e5b56b359121bacbeb0b6ca6f7fb79",
+			"sha256": "175ca098e8fa3a37aa3405d3241955943b6b749a",
+			"size": 1804165074,
+			"version": "2.7",
+			"buildtype": "",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
